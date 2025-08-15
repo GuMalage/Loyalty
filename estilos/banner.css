@@ -1,0 +1,74 @@
+.banner-inicio{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 50px;
+    position: relative;
+}
+
+.banner-conteudo {
+    max-width: 45%;
+    position: relative;
+}
+
+.mini-titulo {
+    font-family: Georgia, serif;
+    font-size: 14px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.banner-conteudo h1{
+    font-size: 48px;
+    color: #b599ec;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0;
+}
+
+.banner-conteudo h1 span{
+    display: block;
+}
+
+.descricao{
+    font-size: 16px;
+    margin: 22px 0;
+    color: #444;
+}
+
+.banner-botoes{
+    font-size: 16px;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.btn-colecao{
+    border: 2px solid #000;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
+    border-radius: 6px;
+    position: relative;
+}
+
+.btn-saibamais{
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 200px;
+    margin-top: -17px;
+    color: #000;
+    display: flex;
+    align-items: center;
+}
+
+.folha-deco{
+    position: absolute;
+    bottom: -80px;
+    left: 40px;
+    width: 60px;
+}
+
+.banner-imgs{
+    display: flex;
+    gap: 20px;
+}
