@@ -40,9 +40,15 @@ O layout é totalmente **responsivo**, adaptando-se a diferentes tamanhos de tel
 ## 🚀 Funcionalidades
 
 ✔️ Cards de produtos com informações e botão de compra
+
 ✔️ Página individual do produto com galeria de imagens e detalhes
+
 ✔️ Carrinho de compras com controle de quantidade e totais automáticos
+
 ✔️ Formulários de cadastro e login com validação em JavaScript
+
 ✔️ Produtos carregados dinamicamente via JSON
+
 ✔️ Componentização de cabeçalho, rodapé e produtos
+
 ✔️ Armazenamento de dados no LocalStorage
