@@ -46,10 +46,3 @@ O layout é totalmente **responsivo**, adaptando-se a diferentes tamanhos de tel
 ✔️ Produtos carregados dinamicamente via JSON
 ✔️ Componentização de cabeçalho, rodapé e produtos
 ✔️ Armazenamento de dados no LocalStorage
-
-
-👉 **Clique aqui para acessar o site Loyalty Decor**
-
----
-
-Se quiser, posso deixar em formato ainda mais profissional para README do GitHub com badges e organização mais técnica 😉
