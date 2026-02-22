@@ -1,29 +1,55 @@
-Loyalty Decor - Ecommerce de Decoração 🖼️
-Projeto desenvolvido como parte da disciplina de Linguagens de Apresentação e Estruturação de Conteúdo do curso de Tecnologia em Análise e Desenvolvimento de Sistemas - UTFPR.
+## 🖼️ Loyalty Decor – E-commerce de Decoração
 
-Desenvolvido em parceria por Giseli Matos e Gustavo Malage.
+Projeto desenvolvido na disciplina de **Linguagens de Apresentação e Estruturação de Conteúdo** do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas** da **Universidade Tecnológica Federal do Paraná (UTFPR)**.
 
-Sobre o Projeto
-Loyalty Decor é uma interface web para um ecommerce de decoração, com visual clean e delicado, focada em proporcionar uma boa experiência de navegação e compra. O site apresenta produtos como quadros, adesivos e papel de parede em um ambiente responsivo e funcional.
+👩‍💻 Desenvolvido em parceria por **Giseli Matos** e **Gustavo Malage**.
 
-Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript
-Bootstrap
-JSON (para simulação de base de dados)
-LocalStorage (armazenamento local de dados)
-Responsividade
-O layout é responsivo e se adapta a diferentes tamanhos de tela, como computadores e dispositivos móveis, garantindo uma navegação fluida em qualquer plataforma.
+---
 
-Funcionalidades
-Menu de navegação com subcategorias
-Cards de produtos com informações e botão de compra
-Página individual do produto com galeria de imagens e detalhes
-Carrinho de compras com controle de quantidade e totais automáticos
-Formulários de cadastro e login com validação em JavaScript
-Dados dos produtos carregados dinamicamente via JSON
-Componentização de cabeçalho, rodapé e produtos
-Armazenamento de dados no LocalStorage
-Visualizar o site
-Clique aqui para acessar o site Loyalty Decor
+## ✨ Sobre o Projeto
+
+O **Loyalty Decor** é uma interface web para um e-commerce de decoração, com um visual **clean, delicado e moderno**, focado em proporcionar uma excelente experiência de navegação e compra.
+
+O site apresenta produtos como:
+
+* 🖼️ Quadros
+* 🏷️ Adesivos
+* 🧱 Papel de parede
+
+Tudo em um ambiente **responsivo, funcional e intuitivo**.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **Bootstrap**
+* **JSON** (simulação de base de dados)
+* **LocalStorage** (armazenamento local de dados)
+
+---
+
+## 📱 Responsividade
+
+O layout é totalmente **responsivo**, adaptando-se a diferentes tamanhos de tela — desde desktops até dispositivos móveis — garantindo uma navegação fluida em qualquer plataforma.
+
+---
+
+## 🚀 Funcionalidades
+
+✔️ Cards de produtos com informações e botão de compra
+✔️ Página individual do produto com galeria de imagens e detalhes
+✔️ Carrinho de compras com controle de quantidade e totais automáticos
+✔️ Formulários de cadastro e login com validação em JavaScript
+✔️ Produtos carregados dinamicamente via JSON
+✔️ Componentização de cabeçalho, rodapé e produtos
+✔️ Armazenamento de dados no LocalStorage
+
+
+👉 **Clique aqui para acessar o site Loyalty Decor**
+
+---
+
+Se quiser, posso deixar em formato ainda mais profissional para README do GitHub com badges e organização mais técnica 😉
